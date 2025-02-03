@@ -6,9 +6,21 @@ body {
 
 }
 
+h1 {
+
+}
+
 .Movie1 {
     margin-bottom: auto;
 
+}
+
+.movie_title1{
+
+}
+
+.movie_review1{
+    
 }
 
 .Movie2{
@@ -17,10 +29,26 @@ body {
 
 }
 
+.movie_title2{
+
+}
+
+.movie_review2{
+    
+}
+
 .Movie3 {
     width:100px;
   margin:auto;
 
+}
+
+.movie_title3{
+
+}
+
+.movie_review3{
+    
 }
 
 .Movie4 {
@@ -29,15 +57,29 @@ body {
 
 }
 
+.movie_title4{
+
+}
+
+.movie_review4{
+    
+}
+
 .Movie5 {
     width:300px;
   margin:auto;
 
 }
 
-.movie_title{
+.movie_title5{
 
 }
+
+.movie_review5{
+    
+}
+
+
 
 .movie_image{
 
@@ -45,8 +87,4 @@ body {
 
 .movie_trailer{
 
-}
-
-.movie_review{
-    
 }
